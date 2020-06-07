@@ -1,0 +1,9 @@
+#!/bin/ksh
+date
+echo LP installed version
+cat $APP_HOME/config/keep_alive_indicators/lpver
+echo LP installed version Add
+cat $APP_HOME/config/keep_alive_indicators/lpadd
+echo LP journal installed Add version
+cat $APP_HOME/config/keep_alive_indicators/lpaddj
+
